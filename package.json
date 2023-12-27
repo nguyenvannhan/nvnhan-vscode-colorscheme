@@ -2,8 +2,9 @@
   "name": "nhannv-vscode-colorscheme",
   "displayName": "nhannv-vscode-colorscheme",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "NguyenVanNhan",
+  "icon": "icon.png",
   "author": {
       "name": "Nguyen Van Nhan",
       "email": "nguyenvannhan0810@gmail.com",
