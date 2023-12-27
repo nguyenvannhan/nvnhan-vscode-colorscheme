@@ -3,6 +3,16 @@
   "displayName": "nhannv-vscode-colorscheme",
   "description": "",
   "version": "0.0.1",
+  "publisher": "NguyenVanNhan",
+  "author": {
+      "name": "Nguyen Van Nhan",
+      "email": "nguyenvannhan0810@gmail.com",
+      "url": "https://nvnhan0810.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyenvannhan/nvnhan-vscode-colorscheme.git"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
